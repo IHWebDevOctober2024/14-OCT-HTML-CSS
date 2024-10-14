@@ -1,0 +1,45 @@
+*{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #54e8c0;
+}
+
+ol{
+    background-color: #54e8c0;
+}
+
+.gradient {
+    background: linear-gradient(to bottom right, blue, pink);
+}
+
+#ordered-list{
+    list-style-type: none;
+}
+
+.text-white{
+    color: white;
+}
+
+.circle{
+    background-color: rgb(49, 49, 49);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-image: url("https://avatars.githubusercontent.com/u/69241444?v=4&size=64");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero-section{
+    background-image: url("https://t4.ftcdn.net/jpg/06/44/97/41/360_F_644974191_XzTiPzZghAHnhhcNk2YcVlqUidTJq7fl.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+    padding-top: 50%;
+}
